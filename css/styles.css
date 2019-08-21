@@ -14,11 +14,18 @@
   font-weight: bold;
   color: red;
 }
-.coll {
+.list {
   column-count: 4;
   column-gap: 40px;
   column-rule-style: solid;
   column-rule-width: 1px;
+  font-family: sans-serif;
+  font-size: 32px;
 
+}
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
