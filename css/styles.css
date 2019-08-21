@@ -1,6 +1,24 @@
 .mh {
   font-weight: bold;
   font-size: 42px;
-  background-color: red;
+  background-color: green;
+  border: 2px solid black;
+  padding: 16px;
+  margin: 30px;
+  color: white;
+  font-family: sans-serif;
+
+}
+
+.cat {
+  font-weight: bold;
+  color: red;
+}
+.coll {
+  column-count: 4;
+  column-gap: 40px;
+  column-rule-style: solid;
+  column-rule-width: 1px;
+
 
 }
